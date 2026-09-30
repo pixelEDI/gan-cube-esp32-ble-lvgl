@@ -1,0 +1,10 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+compile_commands.json
+src/credentials.h
+lib/*
+*.jpg
+

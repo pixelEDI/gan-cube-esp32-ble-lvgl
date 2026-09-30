@@ -1,0 +1,10 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+compile_commands.json
+
+# Lokale Codex-/Agent-Dateien
+.codex/
+.agents/
